@@ -8,7 +8,7 @@ Currently studying Computer Science at University of British Columbia, 🇨🇦C
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've lived multiple years in several countries, including the 🇺🇸United States, 🇨🇦Canada, 🇫🇷France, 🇸🇬Singapore, and 🇨🇳China.
 - 💻 Programming languages: C#, C++, TypeScript, JavaScript
-- 🛠️ Selected tools and environments: GitHub (go figure), Unity, VS Code, Figma, and more...
+- 🛠️ Selected tools and environments: Unity, React, React Native, VS Code, Figma, and more...
 <!--
 
 Here are some ideas to get you started:
