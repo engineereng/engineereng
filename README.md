@@ -9,6 +9,6 @@ I'm currently experimenting with AI tools and getting certifications for my next
 #### TL;DR
 - 🔭 I recently worked on developing virtual reality interfaces for heavy equipment operators and operators of other robots
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've lived multiple years in several countries, including the 🇺🇸United States, 🇨🇦Canada, 🇫🇷France, 🇸🇬Singapore, and 🇨🇳China.
-- 💻 Programming languages: C#, C++, TypeScript, Python, JavaScript
-- 🛠️ Selected tools and environments: Unity, React, React Native, VS Code, Figma, and more...
+- ⚡ Fun fact: I've lived multiple years in several countries, including the United States, Canada, France, Singapore, and China.
+- 💻 Programming languages: TypeScript, JavaScript, C#, Python, C++, 
+- 🛠️ Selected tools and environments: React, React Native, Figma, Unity, Cursor, VS Code, and more...
