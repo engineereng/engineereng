@@ -9,7 +9,7 @@ I'm currently a founding engineer at Origin Therapy, which allows pediatric ther
 - 🛠️ I was CTO at ManufactureAI, a vertical AI startup that is revolutionizing the way manufacturing is done using LLMs
 - 🔭 I worked on developing virtual reality interfaces for heavy equipment operators and operators of other robots at Carbon Origins.
 - ⚡ Fun fact: I'm a "third culture kid"; I've lived multiple years in several countries, including the 🇺🇸 United States, 🇨🇦 Canada, 🇫🇷 France, 🇸🇬 Singapore, and 🇨🇳 China.
-- 💻 Programming languages: TypeScript, JavaScript, C#, Python, C++, 
+- 💻 Programming languages: TypeScript, JavaScript, C#, Python, C++
 - 🛠️ Selected tools and environments:
   - AI tools: Cursor, LangChain, ElevenLabs
-  - Frameworks: AWS
+  - Frameworks: AWS, React
