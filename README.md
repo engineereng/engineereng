@@ -1,6 +1,6 @@
 ### Hi there 👋! 
 
-I'm Collin, also known as engineereng. I'm a software engineer / code wizard working on emerging technologies such as artificial intelligence, AR / VR, enterprise apps, and other interactive experiences.
+I'm Collin, also known as engineereng. I'm a software engineer / code wizard working at the intersection of using emerging technologies (such as artificial intelligence and AR / VR) to solve real, human problems.
 
 I'm currently a founding engineer at Origin Therapy, which allows pediatric therapists to start their own practices and support their patients. We automate away all of the distractions from what really matters: Getting kids the help they need.
 
